@@ -1,3 +1,7 @@
+Original Author : https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
+
+This repo is for my personal use.
+
 # SQL Server First Responder Kit
 <a name="header1"></a>
 [![licence badge]][licence]
